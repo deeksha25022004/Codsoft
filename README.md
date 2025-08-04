@@ -25,7 +25,7 @@ A console-based ATM simulator that allows users to:
 
 
  
-  !<img width="466" height="399" alt="image" src="https://github.com/user-attachments/assets/5f630daf-affa-4dfd-9bb2-6628e96a15d2" />
+     <img width="466" height="399" alt="image" src="https://github.com/user-attachments/assets/5f630daf-affa-4dfd-9bb2-6628e96a15d2" />
 
 💡 **Note:** The balance is not retained across operations due to Java's pass-by-value. To fix this, consider using class-level variables or returning and updating the balance after each operation.
 
@@ -41,7 +41,9 @@ This program counts the number of words in a sentence entered by the user.
 - Outputs the total word count
 
  Output:
-  <img width="193" height="80" alt="image" src="https://github.com/user-attachments/assets/68ed39f8-04a8-424d-8fb9-5d5e0cabad81" />
+   
+   
+    <img width="193" height="80" alt="image" src="https://github.com/user-attachments/assets/68ed39f8-04a8-424d-8fb9-5d5e0cabad81" />
 
 ---
 
@@ -55,7 +57,9 @@ A fun guessing game where the program generates a random number between 1 and 10
 - Tracks the number of attempts taken
   
 Output:
-<img width="402" height="467" alt="image" src="https://github.com/user-attachments/assets/a25b3ecf-6e9a-4215-8bc3-9238e7cf4558" />
+   
+   
+   <img width="402" height="467" alt="image" src="https://github.com/user-attachments/assets/a25b3ecf-6e9a-4215-8bc3-9238e7cf4558" />
 
 ---
 
