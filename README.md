@@ -20,6 +20,11 @@ A console-based ATM simulator that allows users to:
 - Clear output messages for user interaction
 
  Output: 
+
+
+
+
+ 
   !<img width="466" height="399" alt="image" src="https://github.com/user-attachments/assets/5f630daf-affa-4dfd-9bb2-6628e96a15d2" />
 
 💡 **Note:** The balance is not retained across operations due to Java's pass-by-value. To fix this, consider using class-level variables or returning and updating the balance after each operation.
