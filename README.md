@@ -43,7 +43,7 @@ This program counts the number of words in a sentence entered by the user.
  Output:
    
    
-    <img width="193" height="80" alt="image" src="https://github.com/user-attachments/assets/68ed39f8-04a8-424d-8fb9-5d5e0cabad81" />
+   <img width="193" height="80" alt="image" src="https://github.com/user-attachments/assets/68ed39f8-04a8-424d-8fb9-5d5e0cabad81" />
 
 ---
 
