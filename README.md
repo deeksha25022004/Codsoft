@@ -62,9 +62,5 @@ Output:
    <img width="402" height="467" alt="image" src="https://github.com/user-attachments/assets/a25b3ecf-6e9a-4215-8bc3-9238e7cf4558" />
 
 ---
-
-## How to Run
-
-1. Ensure you have Java installed on your system.
-2. Compile the desired file using:
+Thankyou !
 
