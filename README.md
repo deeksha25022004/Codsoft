@@ -1,8 +1,6 @@
 # Codsoft
 # Java Projects
 
-This repository contains three simple Java-based console applications designed to help beginners understand core Java programming concepts. Each program demonstrates key functionalities such as loops, conditionals, user input handling, and function calls.
-
 ---
 
 ## 1. ATM Interface
